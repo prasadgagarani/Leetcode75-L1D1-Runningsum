@@ -1,4 +1,5 @@
-1.1480.EASY. RUNNING SUM OF AN ARRAY
+//1.1480.EASY. RUNNING SUM OF AN ARRAY
+// Daily practice
 //time complexity:O(n);
 //Space complexity:O(1);
 //Any doubts:NA;
